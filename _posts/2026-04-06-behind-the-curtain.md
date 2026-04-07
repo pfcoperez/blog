@@ -8,7 +8,7 @@ categories: AI, Engineering, Mind, Logic, Experiments, Coding
 When I was a little kid, I spent countless hours of joy playing SimCity 2000.  
 It was fun, but also frightening! Random events, such as sudden alien invasions or devastating tornadoes, would start killing my citizens. Citizens I suffered for, citizens that were all but a number in a counter variable.
 
-![SimCity 2000](/assets/images/SimCity_2000_Coverart.png)
+![SimCity 2000]({{ site.baseurl }}/assets/images/SimCity_2000_Coverart.png)
 
 As I learnt about the internals of the games, of computer programs in general, I stopped suffering but I also stopped having so much fun playing the game.
 
@@ -58,7 +58,7 @@ Let's play a game, can you guess what ??? is in the following quote?
 
 **Solution**: [FLOW-MATIC or B-0 programming language](https://en.wikipedia.org/wiki/FLOW-MATIC) - [Reference](https://bitsavers.trailing-edge.com/pdf/univac/flow-matic/U1518_FLOW-MATIC_Programming_System_1958.pdf).
 
-![Flow-Matic](/assets/images/flowmatic.png)
+![Flow-Matic]({{ site.baseurl }}/assets/images/flowmatic.png)
 
 Programming languages were the AI of the 50s.
 
