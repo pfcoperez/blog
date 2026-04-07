@@ -1,0 +1,12 @@
+title: Pablo Francisco Perez Hidalgo's Blog
+description: Personal rumblings from a Software Engineer interested in everything.
+baseurl: ""
+url: ""
+
+theme: minima
+
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
